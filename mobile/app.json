@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Balance",
+    "slug": "balance-calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.example.balancecalculator"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.balancecalculator"
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}
